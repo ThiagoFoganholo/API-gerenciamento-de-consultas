@@ -127,7 +127,7 @@ A API responde aos seguintes Endpoints:
 https://www.django-rest-framework.org/
 
 ## ✒️ Autor
-* **Desenvolvedor ** - *Trabalho de desenvolvimento do código, * - [Thiago Foganholo](https://github.com/ThiagoFoganholo) ;
+* **Desenvolvedor** - *Trabalho de desenvolvimento do código, * - [Thiago Foganholo](https://github.com/ThiagoFoganholo) ;
 
 ## 📄 Licença
 
