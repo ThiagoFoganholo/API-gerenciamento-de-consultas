@@ -31,7 +31,7 @@ Este projeto é uma API para gerenciar consultas médicas, permitindo o cadastro
 #### Passo 1: Clonar o repositório
 
 ```bash
-https://github.com/ThiagoFoganholo/API-gerenciamento-de-consultas.git
+https://github.com/ThiagoFoganholo/API-gerenciamento-de-consultas
 cd consultas-api
 ```
 #### Passo 2: Criar e ativar o ambiente virtual
